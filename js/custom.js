@@ -1,5 +1,5 @@
 /*
-Copyright (c) 2017 
+Copyright (c) 2017
 ------------------------------------------------------------------
 [Master Javascript]
 
@@ -388,7 +388,7 @@ Project:	Wedding Photographer Responsive Template
         },
         //contact mail
         MailFunction: function() {
-            //help mail function	
+            //help mail function
             $('.submit_frm').on('click', function() {
                 var u_name = $('#name').val();
                 var u_email = $('#email').val();
