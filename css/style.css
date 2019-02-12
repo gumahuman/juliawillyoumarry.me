@@ -302,14 +302,14 @@ a:focus{
 }
 .wp_work_img:hover:before {
 
-    border-top-color:  #f85280;
-    border-right-color:  #f85280;
+    border-top-color:  #2a5031;
+    border-right-color:  #2a5031;
     -webkit-transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
     transition: width 0.25s ease-out, height 0.25s ease-out 0.25s;
 }
 .wp_work_img:hover:after {
-    border-bottom-color: #f85280;
-    border-left-color: #f85280;
+    border-bottom-color: #2a5031;
+    border-left-color: #2a5031;
     -webkit-transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
     transition: border-color 0s ease-out 0.5s, width 0.25s ease-out 0.5s, height 0.25s ease-out 0.75s;
 }
@@ -491,7 +491,7 @@ a:focus{
     transform: translate(-50%, -50%);
 }
 .wp_team_box:hover h2 {
-	color:#f85280;
+	color:#2a5031;
 }
 .wp_team_box:hover .wp_team_img .wp_team_img_overlay , .wp_package_box:hover .wp_package_box_img .wp_package_img_overlay, .wp_port_img:hover .wp_port_img_overlay{
     opacity: 1;
@@ -506,7 +506,7 @@ a:focus{
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    color: #f85280;
+    color: #2a5031;
     display: inline-block;
     margin: 0 1px;
     line-height: 40px;
@@ -714,7 +714,7 @@ a:focus{
 	 border-radius: 0px 0px 4px 4px;
 }
 .wp_feedback_box  img{
-	border:5px solid #f85280;
+	border:5px solid #2a5031;
 	border-radius:100%;
 
 }
@@ -783,7 +783,7 @@ background-color: #589e62;
     letter-spacing: 1px;
     background-color: #fff;
     background-image: none;
-    border: 1px solid #f85280;
+    border: 1px solid #2a5031;
     border-radius: 28px;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -853,7 +853,7 @@ background-color: #589e62;
 	-o-transition:all 0.25s ease-in-out;
 }
 .wp_con_box p a:hover{
-	color: #f85280;
+	color: #2a5031;
 }
 /**----footer css start----**/
 .wp_footer_wrapper{
@@ -864,13 +864,13 @@ background-color: #589e62;
 }
 p.copyright {
     text-align: center;
-    color: #f85280;
+    color: #2a5031;
     font-size: 16px;
 	margin: 0px;
 }
 .wp_con_box i:before {
     font-size: 45px;
-    color: #f85280;
+    color: #2a5031;
 }
 /**----about page css start----**/
 .wp_bread_wrapper{
@@ -919,7 +919,7 @@ p.copyright {
 	background-color:#ffffff;
 }
 .wp_about_content h1{
-	color:#f85280;
+	color:#2a5031;
 	font-size:35px;
 	font-weight:bold;
 	line-height:30px;
@@ -973,7 +973,7 @@ p.copyright {
 }
 .wp_skill_box  h1 {
     font-size: 35px;
-    color: #f85280;
+    color: #2a5031;
     font-weight: bold;
     margin-bottom: 15px;
     font-family: 'Roboto Slab', serif;
@@ -1034,7 +1034,7 @@ p.copyright {
     left: 0;
     top: 0;
     height: 100%;
-    background-color: #f85280;
+    background-color: #2a5031;
 	border: 1px solid #ffb8cc;
 }
 
@@ -1071,7 +1071,7 @@ p.copyright {
     padding: 14px 10px;
     text-transform: uppercase;
     display: block;
-    background-color: #f85280;
+    background-color: #2a5031;
     color: #ffffff;
     font-weight: bold;
     font-family: 'Roboto Slab', serif;
@@ -1087,12 +1087,12 @@ p.copyright {
 }
 .wp_gallery_list ul li a.active{
 	background-color:#fff;
-	border: 2px solid #f85280;
-	color:#f85280;
+	border: 2px solid #2a5031;
+	color:#2a5031;
 }
 .wp_gallery_list ul li a:hover, .wp_gallery_list ul li a:focus{
-	color:#f85280;
-	border-color:#f85280;
+	color:#2a5031;
+	border-color:#2a5031;
 }
 .wp_gallery_list ul li a:before, .wp_gallery_list ul li a:after {
     position: absolute;
@@ -1200,7 +1200,7 @@ p.copyright {
     float: right;
     display: inline-block;
     float: right;
-    background-color: #f85280;
+    background-color: #2a5031;
     padding: 31px 30px;
     height: 91px;
 }
@@ -1231,7 +1231,7 @@ p.copyright {
     text-align: center;
     padding: 50px 40px;
 	margin-bottom: 30px;
-    color: #f85280;
+    color: #2a5031;
     position: relative;
 	overflow:hidden;
 
@@ -1264,7 +1264,7 @@ p.copyright {
 }
 .wp_feature_box i:before{
 	font-size:45px;
-	color: #f85280;
+	color: #2a5031;
 }
 .wp_feature_box h2 {
     margin: 0px;
@@ -1324,7 +1324,7 @@ p.copyright {
     font-size: 16px;
     color: #333333;
 	letter-spacing:1px;
-    border: 1px solid #f85280;
+    border: 1px solid #2a5031;
     border-radius: 0px;
     -webkit-box-shadow: none;
     box-shadow: none;
