@@ -14,18 +14,18 @@ if(trim($u_name)!="Your Name" && trim($u_email)!="Your email" && trim($u_phone)!
 			<p>Phone Number is: ".$u_phone."</p>
 			<p>Date is: ".$u_date."</p>
 			<p>Message is : ".$u_msg."</p>";
-		
+
 		$message_user="Hi ".$u_email."<p> Thank you so much for your valuable comments. <br> Our Support team will get back to you ASAP.</p><p>Have a great day ahead.</p>";
-		
-		
+
+
 		$headers = "MIME-Version: 1.0" . "\r\n";
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-		$headers .= 'From: <support@templatebundle.net>' . "\r\n";
+		$headers .= 'From: <vlgu@pm.me>' . "\r\n";
 
-		if(mail('support@templatebundle.net','Query for Fast Food Restaurent',$message,$headers ))
+		if(mail('vlgu@pm.me','Query for Fast Food Restaurent',$message,$headers ))
 		{
 		mail($u_email,'Reply from Fast Food Template Team',$message_user,$headers );
-			
+
 		echo '1#<p style="color:green;">Mail has been sent successfully.</p>';
 		}
 		else
