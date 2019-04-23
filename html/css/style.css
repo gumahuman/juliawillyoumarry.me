@@ -458,7 +458,7 @@ a:focus{
 
 .wp_team_img .wp_team_img_overlay, .wp_package_box_img .wp_package_img_overlay, .wp_port_img .wp_port_img_overlay {
     position: absolute;
-    background-color: rgba(248, 82, 128, 0.77);
+    background-color: rgba(73, 143, 80, 0.77);
     height: 100%;
     left: 0;
     border: 20px solid #ffffff;
@@ -1378,7 +1378,7 @@ p.copyright {
 	top:0;
 	right:0;
 	bottom:0;
-	background-color: rgba(248, 82, 128, 0.52);
+	background-color: rgba(73, 143, 80, 0.52);
 }
 
 .wp_bottom_wrapper h1{
